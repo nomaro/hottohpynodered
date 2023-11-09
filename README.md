@@ -1,8 +1,10 @@
 # Project desciption
 
+Based on Original work of benlbrm : HOTTOHPY
+
 This library can be used to discuss with HootoH based stove devices
 
-Actually tested and validated with a CMG Drum stove.
+Actually tested and validated with a MCZ VIVO 90.
 
 To use this library you need to have a wifi capable stove.
 
