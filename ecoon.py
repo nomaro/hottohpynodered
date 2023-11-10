@@ -18,5 +18,4 @@ while True:
         print("ECO MODE ON")
         time.sleep(1)
         stove._getStoveIsOn()
-        sys.exit
-
+        sys.exit()

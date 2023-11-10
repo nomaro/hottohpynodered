@@ -18,5 +18,5 @@ while True:
         print("FAN 1 PUISSANCE 3")
         time.sleep(1)
         stove._getStoveIsOn()
-        sys.exit
+        sys.exit()
 
