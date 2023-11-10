@@ -10,6 +10,12 @@ To use this library you need to have a wifi capable stove.
 
 Change IP adress in each py files.
 
+Set.py with arguments "flame:[0-5]/fan1:[0-6]/fan2:[0-6]/mode:[off|man|eco]/" send command to the stove.
+exemple :
+```
+python3 set.py flame:1/fan1:0/fan2:1/mode:man/
+```
+
 # Flow in node-red
 
 ```
