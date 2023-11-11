@@ -8,7 +8,7 @@ Actually tested and validated with a MCZ VIVO 90.
 
 To use this library you need to have a wifi capable stove.
 
-Change IP adress in each py files.
+Change IP adress in each set.py and infos.py
 
 Set.py with arguments "flame:[0-5]/fan1:[0-6]/fan2:[0-6]/mode:[off|man|eco]/" send command to the stove.
 exemple :
