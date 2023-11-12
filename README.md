@@ -8,10 +8,18 @@ Actually tested and validated with a MCZ VIVO 90.
 
 To use this library you need to have a wifi capable stove.
 
+Install python's library :
+```
+pip3 install crcmod
+pip3 install bitstring
+pip3 install parse
+```
+
+
 Change IP adress in command.py
 
 Set.py with arguments "flame:[0-5]/fan1:[0-6]/fan2:[0-6]/mode:[off|man|eco]/" send command to the stove.
-exemple :
+example :
 ```
 python3 command.py flame:1/fan1:0/fan2:1/mode:man/
 ```
